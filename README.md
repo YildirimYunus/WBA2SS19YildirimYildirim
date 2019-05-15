@@ -1,1 +1,1 @@
-# WBA2SSYildirimYildirimSimsek
+# WBA2SSYildirimYildirim
