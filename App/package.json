@@ -1,0 +1,22 @@
+{
+  "name": "wba2ss19yildirimyildirim",
+  "version": "1.0.0",
+  "description": "WBA2 Workshop Projekt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YildirimYunus/WBA2SSYildirimYildirimSimsek.git"
+  },
+  "author": "Yunus Yildirim Yahya Yildirim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YildirimYunus/WBA2SSYildirimYildirimSimsek/issues"
+  },
+  "homepage": "https://github.com/YildirimYunus/WBA2SSYildirimYildirimSimsek#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
