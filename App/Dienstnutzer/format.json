@@ -1,0 +1,28 @@
+[{
+	"groups": {
+		"name": "",
+		"members": [],
+		"maxMember": 0,
+		"team": "",
+    "location": "",
+		"requirements": "",
+		"tags": [""]
+	},
+	"events": {
+		"name": "",
+		"members": [],
+		"team": "",
+    "location": "",
+		"requirements": "",
+		"tags": [
+			""
+		]
+	},
+	"users": {
+		"name": "",
+		"nachname": "",
+		"username": "",
+    "location": "",
+		"team": []
+	}
+}]
